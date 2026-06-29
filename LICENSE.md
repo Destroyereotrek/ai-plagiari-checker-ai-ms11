@@ -1,4 +1,4 @@
-# 
+# Avancé AI Plagiarism Checker outils. Avec apprentissage par renforcement et extraction de caractéristiques — optimisé pour des performances maximales.
 
 
 
